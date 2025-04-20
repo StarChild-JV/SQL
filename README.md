@@ -1,5 +1,9 @@
-> READ FIRST!
-# Jaden's SQL Portfolio
+> [!TIP]
+> Read this first. 
 
-## Welcome to my SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
+
+# Jadens's SQL Portfolio
+
+## Hello and welcome to my SQL Portfolio! This code repository contains examples of SQL Codes I've written. Feel free to take a look and reach out if you have any questions. :)
+
 
